@@ -1,4 +1,4 @@
-This all are the basic library of python.
+Basic library of python.
 b.py
 ![image](https://github.com/user-attachments/assets/4a34885d-3288-49bf-a2da-b5563b775c56)
 c.py
